@@ -1,0 +1,36 @@
+@font-face
+{
+font-family: title;
+src: url('../fonts/Graduate-Regular.ttf')
+}
+@font-face
+{
+font-family: affiliation;
+src: url('../fonts/Andada-Regular.ttf')
+}
+@font-face
+{
+font-family: message;
+src: url('../fonts/RacingSansOne-Regular.ttf')
+}
+
+#college {
+font-size:30px;
+font-family:title;
+}
+#affiliation {
+font-size:15px;
+font-family:affiliation;
+}
+#msg-title{
+font-family: verdana;
+font-size:22px;
+}
+#faculty-name{
+font-size:12px;
+line-height:25px;
+}
+#faculty-text{
+padding-left:5px;
+font-size:10px;
+}

@@ -1,0 +1,43 @@
+/* --- Dark Color Shade --- */
+#menu-button,#menu-buttonL,#list:hover,#newsevents,#footer,#news,#updateHeading,#updateFooter{
+background:#db281c;
+color:#ffffff;
+}
+
+/* --- Light Color Shade --- */
+#list,#vertical-ticker li,#updates td{
+background:#F3AAA5;
+color:#000000;
+}
+
+/* --- Only for Text --- */
+#msg-title,#title,#aboutHeading,#academicsHeading,#newsLeftHeading,#contactHeading,#faculty-name,#collegeSocialLinks a,#pagination a{
+color:#db281c;
+}
+
+
+/* ---  border --- */
+#faculty-list,#faculty-photo{
+border:1px solid #db281c;
+}
+#imageSlot{
+border:3px solid #db281c;
+}
+#courseSlot{
+border:2.5px solid #db281c;
+}
+
+/* --- Scroll --- */
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(243,170,165,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(219,40,28,0.5); 
+}
