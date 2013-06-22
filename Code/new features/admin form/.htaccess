@@ -1,0 +1,7 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^thapar\.counsellingmaster\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.thapar\.counsellingmaster\.com$
+RewriteRule ^/?$ "http\:\/\/www\.counsellingmaster\.com\/thapar\/instructions\.html" [R=301,L]
+
