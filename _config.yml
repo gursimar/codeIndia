@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "India Towards IT"
 title_separator          : "-"
 name                     : ""
-description              : "Bridging gap in IT education in India."
+description              : "Lets code for a better India."
 url                      : "http://www.indiatowardsit.org/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "gursimar/indiaTowardsIT"
@@ -77,10 +77,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : ""
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : ""
+  location         : ""
   email            :
   uri              :
   bitbucket        :
